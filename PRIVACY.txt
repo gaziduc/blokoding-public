@@ -7,6 +7,8 @@ that is stored on your device is the app settings, such as:
  - the app language
  - your progress in the tutorials 
 
+If you want to delete this data, uninstall and re-install the app.
+
 For any questions or inquiries, please contact us at: blokding@gmail.com
 
 -
